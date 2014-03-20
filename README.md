@@ -1,0 +1,1 @@
+This is the Rails Girls' Hamburg logo. Design copyright by the [Rails Girls](http://railsgirls.com). The font used is called [Interstate Bold](http://www.myfonts.com/fonts/fontbureau/interstate/bold/).
